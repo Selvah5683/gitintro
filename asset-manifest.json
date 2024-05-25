@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.82c96d4b.css",
+    "main.js": "/static/js/main.ea35a1b6.js",
+    "static/media/Restaurant design.png": "/static/media/Restaurant design.7c618f58ae4e1e7acf9d.png",
+    "static/media/field.png": "/static/media/field.dcad90a8bd2c0d7ff3d7.png",
+    "static/media/bgpic.png": "/static/media/bgpic.70a036afecb9819bc4a2.png",
+    "index.html": "/index.html",
+    "main.82c96d4b.css.map": "/static/css/main.82c96d4b.css.map",
+    "main.ea35a1b6.js.map": "/static/js/main.ea35a1b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82c96d4b.css",
+    "static/js/main.ea35a1b6.js"
+  ]
+}
